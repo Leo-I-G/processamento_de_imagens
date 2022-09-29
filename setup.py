@@ -13,7 +13,7 @@ setup(
     description="Pacote de processamento de imagens feito com o skimage",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="my_github_repository_project_link",
+    url="https://github.com/Leo-I-G/processamento_de_imagens",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
